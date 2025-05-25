@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/movie-discovery/static/css/main.2ba9aca3.css",
-    "main.js": "/movie-discovery/static/js/main.03b09d9d.js",
-    "index.html": "/movie-discovery/index.html",
-    "main.2ba9aca3.css.map": "/movie-discovery/static/css/main.2ba9aca3.css.map",
-    "main.03b09d9d.js.map": "/movie-discovery/static/js/main.03b09d9d.js.map"
+    "main.css": "/movie-explorer/static/css/main.2ba9aca3.css",
+    "main.js": "/movie-explorer/static/js/main.03b09d9d.js",
+    "index.html": "/movie-explorer/index.html",
+    "main.2ba9aca3.css.map": "/movie-explorer/static/css/main.2ba9aca3.css.map",
+    "main.03b09d9d.js.map": "/movie-explorer/static/js/main.03b09d9d.js.map"
   },
   "entrypoints": [
     "static/css/main.2ba9aca3.css",
